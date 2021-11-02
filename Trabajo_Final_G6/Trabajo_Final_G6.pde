@@ -5,5 +5,5 @@ public void setup() {
 }
 
 public void draw() {
-  background(250,0,0);
+  background(0,250,0);
 }
